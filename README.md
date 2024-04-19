@@ -11,7 +11,7 @@ I'm always eager to embrace new learning opportunities and collaborate on exciti
 
 Much 💛 for:
 
-[![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=black&color=fde047)](https://www.linux.org/)
+[![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=black&color=fde047)](https://www.kernel.org/)
 [![Debian](https://img.shields.io/badge/Debian-black?style=flat-square&logo=debian&logoColor=black&color=fde047&labelColor=fde047&logoWidth=40&logoHeight=40)](https://www.debian.org/)
 [![Void Linux](https://img.shields.io/badge/Void_Linux-black?style=flat-square&logo=void-linux&logoColor=black&color=fde047)](https://voidlinux.org/)
 [![Suckless](https://img.shields.io/badge/Suckless-black?style=flat-square&logo=suckless&logoColor=black&color=fde047&labelColor=fde047&logoWidth=40&logoHeight=40)](https://suckless.org/)
