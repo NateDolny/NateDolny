@@ -1,6 +1,6 @@
 ### Hey there
 
-I am a computer science student inspired by the immersive worlds of science fiction. I have embarked on numerous projects fueled by imagination and a thirst for learning.  I am also deeply immersed in the GNU/Linux ecosystem, finding joy in its versatility and open-source ethos.  
+I am a computer science student inspired by the immersive worlds of science fiction. I have embarked on numerous projects fueled by imagination and a thirst for learning.  I am also deeply immersed in the GNU/Linux ecosystem, finding joy in its versatility and open-source ethos. Outside of tech, I’m captivated by marine life. The diversity and behaviors of oceanic creatures fascinate me, and I enjoy exploring how these natural systems mirror the complex networks we work with in technology.
 
 I'm always eager to embrace new learning opportunities and collaborate on exciting projects. Lets connect and build something awesome together!
 
