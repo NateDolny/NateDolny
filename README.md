@@ -6,19 +6,20 @@ I'm always eager to embrace new learning opportunities and collaborate on exciti
 
 📫 How to reach me: 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin&logoColor=black&color=fde047&link=https://ca.linkedin.com/in/nate-dolny)](https://ca.linkedin.com/in/nate-dolny)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin&logoColor=black&color=7d5aa6&link=https://ca.linkedin.com/in/nate-dolny)](https://ca.linkedin.com/in/nate-dolny)
 
 ☕️ Support Me: 
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-fde047?style=flat-square&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/natedolny)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-7d5aa6?style=flat-square&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/natedolny)
 
-Much 💛 for:
+Much 💜 for:
 
-[![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=black&color=fde047)](https://www.kernel.org/)
-[![Debian](https://img.shields.io/badge/Debian-black?style=flat-square&logo=debian&logoColor=black&color=fde047&labelColor=fde047&logoWidth=40&logoHeight=40)](https://www.debian.org/)
-[![Void Linux](https://img.shields.io/badge/Void_Linux-black?style=flat-square&logo=void-linux&logoColor=black&color=fde047)](https://voidlinux.org/)
-[![Suckless](https://img.shields.io/badge/Suckless-black?style=flat-square&logo=suckless&logoColor=black&color=fde047&labelColor=fde047&logoWidth=40&logoHeight=40)](https://suckless.org/)
-[![Neovim](https://img.shields.io/badge/Neovim-black?style=flat-square&logo=neovim&logoColor=black&color=fde047)](https://neovim.io/)
+[![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=black&color=7d5aa6)](https://www.kernel.org/)
+[![Debian](https://img.shields.io/badge/Debian-black?style=flat-square&logo=debian&logoColor=black&color=7d5aa6&labelColor=7d5aa6&logoWidth=40&logoHeight=40)](https://www.debian.org/)
+[![Void Linux](https://img.shields.io/badge/Void_Linux-black?style=flat-square&logo=void-linux&logoColor=black&color=7d5aa6)](https://voidlinux.org/)
+[![Suckless](https://img.shields.io/badge/Suckless-black?style=flat-square&logo=suckless&logoColor=black&color=7d5aa6&labelColor=7d5aa6&logoWidth=40&logoHeight=40)](https://suckless.org/)
+[![Neovim](https://img.shields.io/badge/Neovim-black?style=flat-square&logo=neovim&logoColor=black&color=7d5aa6)](https://neovim.io/)
+
 
 <!--
 **NateDolny/NateDolny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
