@@ -1,8 +1,10 @@
-### Hey there
+### Hey there 
 
-I am a computer science student inspired by the immersive worlds of science fiction. I have embarked on numerous projects fueled by imagination and a thirst for learning.  I am also deeply immersed in the GNU/Linux ecosystem, finding joy in its versatility and open-source ethos. Outside of tech, I’m captivated by marine life. The diversity and behaviors of oceanic creatures fascinate me, and I enjoy exploring how these natural systems mirror the complex networks we work with in technology.
+I’m a computer science student inspired by the immersive worlds of science fiction, and I’ve embarked on numerous projects fueled by imagination and a thirst for learning. My journey has led me deep into the GNU/Linux ecosystem, where I find joy in its versatility and open-source ethos.
 
-I'm always eager to embrace new learning opportunities and collaborate on exciting projects. Lets connect and build something awesome together!
+Outside of tech, I’m captivated by marine life, particularly the mesmerizing beauty of corals. One of my favorites is the Acropora, especially the stunning Fox Flame variety, with its vibrant colors and intricate structures. I truly appreciate the delicate ecosystems they create and the inspiration they offer.
+
+I’m always eager to embrace new learning opportunities and collaborate on exciting projects. Let’s connect and build something awesome together!
 
 📫 How to reach me: 
 
